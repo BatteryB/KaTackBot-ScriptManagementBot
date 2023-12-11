@@ -12,5 +12,5 @@
 - Kakao Talk 9.7.0 or higher version correspondence codes must be set separately.
 
 
-** 스크립트 관리봇의 사용법은 코드 내에 모두 적혀있습니다.
+** 스크립트 관리봇의 사용법은 코드 내에 모두 적혀있습니다.\n
 ** The script management bot's usage is all written in the code.
