@@ -7,10 +7,10 @@
 2. Add the code.
 3. run after compilation
 4. Done
-
+<br>
 - 카카오톡 9.7.0 이상 버전 대응코드는 별도로 직접 설정 하셔야 합니다. 
 - Kakao Talk 9.7.0 or higher version correspondence codes must be set separately.
-
-
-** 스크립트 관리봇의 사용법은 코드 내에 모두 적혀있습니다.\n
-** The script management bot's usage is all written in the code.
+<br>
+<br>
+* 스크립트 관리봇의 사용법은 코드 내에 모두 적혀있습니다.
+* The script management bot's usage is all written in the code.
